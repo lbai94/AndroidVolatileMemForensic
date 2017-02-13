@@ -1,0 +1,9 @@
+D:\thesis\getmem_gui\bin\Debug\getmem_gui.exe.config
+D:\thesis\getmem_gui\bin\Debug\getmem_gui.exe
+D:\thesis\getmem_gui\bin\Debug\getmem_gui.pdb
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.csprojResolveAssemblyReference.cache
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.Form1.resources
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.Properties.Resources.resources
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.csproj.GenerateResource.Cache
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.exe
+D:\thesis\getmem_gui\obj\Debug\getmem_gui.pdb
